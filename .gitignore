@@ -1,0 +1,6 @@
+.deps/
+build/
+.local/
+.DS_Store
+*.pem
+*.key
